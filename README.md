@@ -1,1 +1,3 @@
 # dotfiles
+
+my shitty dotfiles :)
